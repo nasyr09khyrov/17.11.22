@@ -1,0 +1,109 @@
+.container {
+    width: 620px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.element {
+    width: 300px;
+    height: 300px;
+    margin-bottom: 15px;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.cards {
+    width: 140px;
+    height: 140px;
+    background-color: aqua;
+}
+
+
+.purple {
+    background-color: purple;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* * {
+    box-sizing: border-box;
+}
+div {
+    background-color: purple;
+    height: 200px;
+    width: 200px;
+}
+.div1 {
+    background-color: rgb(30, 255, 0);
+    height: 100px;
+    width: 100px;
+    display: flex;
+    flex-basis: ;
+}
+.div2 {
+    background-color: rgb(30, 255, 0);
+    height: 100px;
+    width: 100px;
+}
+.div3 {
+    background-color: rgb(30, 255, 0);
+    height: 100px;
+    width: 100px;
+}
+.div4 {
+    background-color: rgb(30, 255, 0);
+    height: 100px;
+    width: 100px;
+}
+.div5 {
+    background-color: rgb(30, 255, 0);
+    height: 200px;
+    width: 200px;
+}
+.div6 {
+    background-color: rgb(30, 255, 0);
+    height: 200px;
+    width: 200px;
+}
+.div7 {
+    background-color: rgb(30, 255, 0);
+    height: 200px;
+    width: 200px;
+}
+.div8 {
+    background-color: rgb(30, 255, 0);
+    height: 200px;
+    width: 200px;
+}
+.div9 {
+    background-color: rgb(30, 255, 0);
+    height: 200px;
+    width: 200px;
+} */
